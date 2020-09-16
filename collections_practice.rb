@@ -28,6 +28,6 @@ end
 
 def find_a(array)
   array.select do |letter|
-    letter[] == "a"
+    letter[0] == "a"
   end
 end
