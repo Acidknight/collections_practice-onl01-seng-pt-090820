@@ -39,5 +39,9 @@ end
 def add_s(array)
   array.each_with_index.collect do |index, word|
     if index == 1 
-      
+      word
+    else 
+      index
+    end
+  end
 end
