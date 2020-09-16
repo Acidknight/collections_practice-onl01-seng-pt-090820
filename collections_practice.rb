@@ -20,6 +20,6 @@ def reverse_array(array)
   array.reverse 
 end
 
-def keshe_maker(char)
+def kesha_maker(char)
   
 end
